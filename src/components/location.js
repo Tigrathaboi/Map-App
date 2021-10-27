@@ -30,8 +30,8 @@ class Location extends React.Component {
   };
 
   componentDidMount() {
+    setInterval(this.fetchResult, 5000);
     this.fetchResult();
-    // setInterval(this.fetchResult, 5000);
   }
 
   render() {
