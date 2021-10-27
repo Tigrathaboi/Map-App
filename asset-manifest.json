@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tigrathaboi/Map-App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Tigrathaboi/Map-App/static/js/main.75f525e4.chunk.js",
+    "main.js.map": "/Tigrathaboi/Map-App/static/js/main.75f525e4.chunk.js.map",
+    "runtime-main.js": "/Tigrathaboi/Map-App/static/js/runtime-main.c8854bb4.js",
+    "runtime-main.js.map": "/Tigrathaboi/Map-App/static/js/runtime-main.c8854bb4.js.map",
+    "static/js/2.b1a3f372.chunk.js": "/Tigrathaboi/Map-App/static/js/2.b1a3f372.chunk.js",
+    "static/js/2.b1a3f372.chunk.js.map": "/Tigrathaboi/Map-App/static/js/2.b1a3f372.chunk.js.map",
+    "index.html": "/Tigrathaboi/Map-App/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Tigrathaboi/Map-App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b1a3f372.chunk.js.LICENSE.txt": "/Tigrathaboi/Map-App/static/js/2.b1a3f372.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8854bb4.js",
+    "static/js/2.b1a3f372.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.75f525e4.chunk.js"
+  ]
+}
